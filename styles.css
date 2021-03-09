@@ -832,14 +832,14 @@
   padding: 2px;
 }
 
-.fa-linkedin:hover {
-  color: #3162e9;
-  background-color: white;
+.fa-tiktok:hover {
+  color: white;
+  background-color: black;
   border-radius: 5px;
-  padding: 2px;
+  padding: 4px;
 }
 
-.fa-twitter:hover {
+.fa-telegram:hover {
   color: #3162e9;
   background-color: white;
   border-radius: 5px;
