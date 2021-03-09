@@ -628,6 +628,11 @@
   background-size: cover;
 }
 
+.services__card:nth-child(8) {
+  background-image: url(images/portfolio\ 8.jpg);
+  background-size: cover;
+}
+
 .services__card h2 {
   text-align: center;
 }
